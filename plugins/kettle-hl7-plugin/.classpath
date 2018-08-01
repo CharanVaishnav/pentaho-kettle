@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Engine"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Core"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/metastore-7.1.0.14-149.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/hapi-base-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/org.apache.servicemix.bundles.hapi-0.5.1_5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/hapi-structures-v251-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/hapi-structures-v26-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/swt-win64-3.6.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle UI"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

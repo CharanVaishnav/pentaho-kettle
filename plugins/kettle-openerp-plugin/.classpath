@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Engine"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/metastore-7.1.0.14-149.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/openerp-java-api-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/xmlrpc-common-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/swt-win64-3.6.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle UI"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/eclipse-jface-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

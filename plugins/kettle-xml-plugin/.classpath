@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Core"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-vfs2-2.1-20150824.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-anim-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-awt-util-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-bridge-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-codec-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-constants-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-css-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-dom-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-ext-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-gvt-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-i18n-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-parser-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-script-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-svg-dom-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-transcoder-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-util-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/batik-xml-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/com.wcohen.secondstring-0.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/commons-pool-1.5.7.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/encoder-1.2.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/jcifs-1.3.3.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/jetty-util-8.1.15.v20140411.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/jsch-0.1.54.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/jug-lgpl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/jzlib-1.0.7.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/metastore-7.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/ognl-2.6.9.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/org.apache.karaf.main-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/scannotation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Kettle Core/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Engine"/>
+	<classpathentry kind="lib" path="/Kettle DB Dialog/lib/saxon-9.1.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/pentaho-metaverse-api-7.1.0.14-149.jar"/>
+	<classpathentry kind="lib" path="/Kettle DB Dialog/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/pentaho-bi-platform-engine-core-3.10.0-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/swt-win64-3.6.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle UI"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/eclipse-jface-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/eclipse-runtime-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -14,13 +14,9 @@ testdata.log
 testdata.properties
 testdata.script
 .idea/
-.classpath
-.project
 projects/
 build-res/dojo-*
 build-res/module-scripts/
-*.class
-*.jar
 *.war
 *.ear
 *.iml

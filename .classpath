@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/eclipse/core/commands/3.3.0-I20070605-0010/commands-3.3.0-I20070605-0010.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle DB Dialog"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Engine"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle GPLoad Plugin"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle HL7 Plugin"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Open ERP Plugin"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Palo Plugin"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle Star Modeler Plugin"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Kettle UI"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/kettle-version-checker"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/kettle-xml-plugin"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PDI5 Log4j logging plugin"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
