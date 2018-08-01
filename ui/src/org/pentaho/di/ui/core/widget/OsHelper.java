@@ -136,7 +136,7 @@ public class OsHelper {
     } );
 
     // hook into the system menu on mac
-    if ( isMac() ) {
+    if ( isMac() ) {/*
 
       Menu m = display.getSystemMenu();
       MenuItem[] items = m.getItems();
@@ -172,7 +172,7 @@ public class OsHelper {
 
         }
       }
-    }
+    */}
 
   }
 

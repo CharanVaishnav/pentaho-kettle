@@ -318,7 +318,7 @@
       <groupId>org.eclipse.core</groupId>
       <artifactId>org.eclipse.core.commands</artifactId>
       <version>${dependency.eclipse.version}</version>
-      <scope>test</scope>
+      <!--<scope>test</scope> -->
     </dependency>
 
   </dependencies>

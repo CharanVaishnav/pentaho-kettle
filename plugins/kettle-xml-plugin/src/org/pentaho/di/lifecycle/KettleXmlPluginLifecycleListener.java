@@ -46,10 +46,10 @@ public class KettleXmlPluginLifecycleListener implements LifecycleListener {
     XMLOutputExternalResourceConsumer xmlOutputExternalResourceConsumer = new XMLOutputExternalResourceConsumer();
     xmlOutputStepAnalyzer.setExternalResourceConsumer( xmlOutputExternalResourceConsumer );
 
-    PentahoSystem.registerObject( getXMLDataStepAnalyzer );
+    /*PentahoSystem.registerObject( getXMLDataStepAnalyzer );
     PentahoSystem.registerObject( getXMLDataExternalResourceConsumer );
     PentahoSystem.registerObject( xmlOutputStepAnalyzer );
-    PentahoSystem.registerObject( xmlOutputExternalResourceConsumer );
+    PentahoSystem.registerObject( xmlOutputExternalResourceConsumer );*/
   }
 
   @Override public void onExit( LifeEventHandler handler ) throws LifecycleException {
